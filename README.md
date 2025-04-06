@@ -44,3 +44,12 @@ Simple php test to create and display employee profile
 - Clean code and good practise
 - Good UI UX
 
+## When Running the project.
+1. Need to run 2 server. 1 for React App, 1 for PHP server.
+2. Open terminal
+3. type php -S localhost:8000 (Start backend server first)
+4. Open new terminal
+5. type cd empprofile (Change directory to empprofile)
+6. type npm install (Install all neccesary references)
+7. type npm start (Start the server)
+8. Start using
