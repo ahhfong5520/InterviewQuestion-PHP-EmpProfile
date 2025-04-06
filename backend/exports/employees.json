@@ -1,0 +1,59 @@
+[
+    {
+        "employeeName": "Mei Mei 123",
+        "gender": "Female",
+        "maritalStatus": "Married",
+        "phoneNo": "0123415678",
+        "email": "123@asd.com",
+        "address": "adsfsaf",
+        "dob": "2025-04-11",
+        "nationality": "Malaysia",
+        "hireDate": "2025-04-25",
+        "department": "Human Resource",
+        "race": "Chinese",
+        "id": "emp_67f244cde9b458.67419065"
+    },
+    {
+        "employeeName": "Abu",
+        "gender": "Male",
+        "maritalStatus": "Married",
+        "phoneNo": "0123456789",
+        "email": "Abu@gamil.com",
+        "address": "asdfsf",
+        "dob": "1994-10-12",
+        "nationality": "Malaysia",
+        "hireDate": "2025-04-06",
+        "department": "Support",
+        "race": "Indian",
+        "id": "emp_67f24506a4c2d7.82803769"
+    },
+    {
+        "employeeName": "Ali",
+        "gender": "Male",
+        "maritalStatus": "Married",
+        "phoneNo": "0123456789",
+        "email": "Ali@icloud.com",
+        "address": "asdfsf",
+        "dob": "1994-10-12",
+        "nationality": "Malaysia",
+        "hireDate": "2025-04-06",
+        "department": "Software Engineer",
+        "race": "Malay",
+        "id": "emp_67f24506a4c2d7.82803769"
+    },
+    {
+        "id": "emp_67f28b765b5e53.21401655",
+        "employeeName": "Test Emp 1",
+        "gender": "Female",
+        "race": "Chinese",
+        "maritalStatus": "Single",
+        "phoneNo": "0123415678",
+        "email": "123@asd.com",
+        "address": "qwewqe",
+        "dob": "2025-04-01",
+        "nationality": "Singapore",
+        "hireDate": "2025-04-10",
+        "department": "Software Engineer",
+        "undefined": "1"
+    }
+]

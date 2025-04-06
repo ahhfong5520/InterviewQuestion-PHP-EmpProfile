@@ -1,0 +1,38 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.modal-content {
+    background: white;
+    border-radius: 8px;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    transform: scale(0.8);
+    transition: transform 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out, padding 0.5s ease-in-out;
+}
+
+.modal.open .modal-content {
+    width: 600px;
+    height: auto;
+    padding: 20px;
+    transform: scale(1);
+}
+
+.table-hover-custom tbody tr:hover {
+    background-color: #f8f9fa;
+    /* Light grey background color on hover */
+    cursor: pointer;
+    /* Change cursor to pointer to indicate it's clickable */
+}
